@@ -1,0 +1,5 @@
+package com.sfle.core.service;
+
+public interface UserFileService {
+
+}

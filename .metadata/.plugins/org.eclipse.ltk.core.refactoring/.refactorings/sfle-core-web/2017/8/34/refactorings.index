@@ -1,0 +1,34 @@
+1503667557357	Delete element
+1503668563711	Delete element
+1503668733631	Delete element
+1503670294881	Extract local variable 'uploadFile'
+1503673417649	Extract local variable 'userFileList'
+1503675074754	Rename resource 'frameworks-7db951ed87f8f6cbd3a9e89c294e300cf23c1a83ad7ae64c7.css'
+1503675100206	Rename resource 'github-b7bda172b6e179d2b35e564482890fc1f75b75de89d6976de12a5.css'
+1503675116395	Rename resource 'site-955690c4e09b2eeb3627ae6048471522eb98b42054150bd855ad418.css'
+1503675127159	Rename resource 'frameworks.css'
+1503675196037	Rename resource 'github-1633eda63b4095ea1a4be7b699600052b787d8b6f2f1f1a502fcfa.js'
+1503675208497	Rename resource 'frameworks-bd2279eeeabb02c6ddb8c5d0a7662922b5564640619945baaa.js'
+1503675239984	Rename resource 'Sign in to GitHub · GitHub.htm'
+1503675252624	Rename resource 'login.jsp'
+1503675380078	Rename resource 'login.html'
+1503676790289	Delete elements
+1503676794707	Delete element
+1503676798516	Delete elements
+1503676981011	Delete element
+1503676995914	Delete element
+1503676998482	Delete element
+1503677005140	Delete element
+1503677008891	Delete element
+1503677011866	Delete element
+1503679198845	Delete element
+1503736000377	Extract local variable 'downloadFile'
+1503753270547	Extract local variable 'properties'
+1503753292824	Extract local variable 'property'
+1503755389576	Extract local variable 'hideFile'
+1503757222559	Delete element
+1503757240150	Copy file
+1503757244938	Delete element
+1503757250979	Copy file
+1503757255884	Delete element
+1503757263011	Delete element

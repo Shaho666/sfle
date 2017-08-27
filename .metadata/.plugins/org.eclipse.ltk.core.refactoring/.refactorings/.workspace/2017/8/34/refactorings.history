@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;sfle-parent/pom.xml&apos;" deleteContents="false" description="Delete resource &apos;sfle-parent/pom.xml&apos;" element1="/sfle-parent/pom.xml" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1503667044640"/>&#x0A;<refactoring comment="Delete resource &apos;sfle-core/pom.xml&apos;" deleteContents="false" description="Delete resource &apos;sfle-core/pom.xml&apos;" element1="/sfle-core/pom.xml" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1503667225633"/>
+</session>
