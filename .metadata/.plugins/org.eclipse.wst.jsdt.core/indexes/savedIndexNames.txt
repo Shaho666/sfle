@@ -1,8 +1,4 @@
 INDEX VERSION 1.4+E:\workspace\eclipse-oxygen\sfle\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2443426258.index
-3235392419.index
 2396524009.index
-1710438694.index
 3354963447.index
-3402917804.index
-1334600141.index
+3861929230.index

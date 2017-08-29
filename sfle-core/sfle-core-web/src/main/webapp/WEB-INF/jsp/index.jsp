@@ -5,11 +5,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Welcome to sfle!</title>
-<link rel="stylesheet" type="text/css" href="../css/easyui.css">
-<link rel="stylesheet" type="text/css" href="../css/icon.css">
-<link rel="stylesheet" type="text/css" href="../css/demo.css">
-<script type="text/javascript" src="../js/jquery.min.js"></script>
-<script type="text/javascript" src="../js/jquery.easyui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="../js/jquery-easyui-1.5.2/themes/default/easyui.css">
+<link rel="stylesheet" type="text/css" href="../js/jquery-easyui-1.5.2/themes/icon.css">
+<link rel="stylesheet" type="text/css" href="../js/jquery-easyui-1.5.2/demo/demo.css">
+<script type="text/javascript" src="../js/jquery-easyui-1.5.2/jquery.min.js"></script>
+<script type="text/javascript" src="../js/jquery-easyui-1.5.2/jquery.easyui.min.js"></script>
 <script type="text/javascript">
 
 	function addTab(title, url) {
@@ -63,7 +63,7 @@
 		<div data-options="region:'west',split:true,iconCls:'icon-ok'" title="功能"
 			style="width: 15%;">
 			<div class="easyui-accordion" data-options="fit:true,border:true">
-				<div title="文件列表" iconCls="icon-reload"
+				<div title="文件列表" iconCls="icon-ok"
 					style="overflow: auto; padding: 10px;">
 					<h3 style="color: #0099FF;">文件显示面板</h3>
 					<ul>
