@@ -30,6 +30,7 @@
 		<solrj.version>4.10.3</solrj.version>
 		<freemarker.version>2.3.23</freemarker.version>
 		<quartz.version>2.2.2</quartz.version>
+		<mail.version>1.4.7</mail.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
@@ -189,6 +190,11 @@
 				<groupId>org.quartz-scheduler</groupId>
 				<artifactId>quartz</artifactId>
 				<version>${quartz.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>javax.mail</groupId>
+				<artifactId>mail</artifactId>
+				<version>1.4.7</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>

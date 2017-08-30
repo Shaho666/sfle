@@ -1,2 +1,3 @@
 com\sfle\core\controller\UserFileController.class
+com\sfle\core\controller\MailController.class
 com\sfle\core\controller\IndexController.class

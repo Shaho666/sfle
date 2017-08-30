@@ -9,5 +9,34 @@
 	http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.0.xsd">
 
 	<context:component-scan base-package="com.sfle.core.service"></context:component-scan>
+
+	<bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+		<!-- 服务器 -->
+		<property name="host" value="smtp.qq.com" />
+		<!-- 端口号 -->
+		<property name="port" value="25" />
+		<!-- 用户名 -->
+		<property name="username" value=""/>
+		<!-- 密码 -->
+		<property name="password" value="" />
+		<!-- SMTP服务器验证 -->
+		<property name="javaMailProperties">
+			<props>
+				<!-- 验证身份 -->
+				<prop key="mail.smtp.auth">true</prop>
+			</props>
+		</property>
+	</bean>
 	
+	<bean id="simpleMailMessage" class="org.springframework.mail.SimpleMailMessage">
+        <!-- 发件人email -->
+        <property name="from" value="" />
+
+    </bean>
+
+    <!-- <bean id="simpleMail" class="com.baidu.action.Email">
+        <property name="mailSender" ref="mailSender" />
+        <property name="simpleMailMessage" ref="simpleMailMessage" />
+    </bean> -->
+
 </beans>

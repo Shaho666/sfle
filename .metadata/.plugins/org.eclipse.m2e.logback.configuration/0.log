@@ -4753,3 +4753,513 @@ org.eclipse.core.runtime.CoreException: Launch configuration TestUpload.testUplo
 2017-08-29 12:17:46,011 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2017-08-29 12:17:46,012 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-08-29 12:17:46,012 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:23:57,487 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-08-29 12:24:01,387 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:24:01,400 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-08-29 12:24:02,171 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:02,178 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:24:02,182 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:02,183 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:24:02,761 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:02,770 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:24:02,772 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:02,772 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:24:03,005 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:24:03,029 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:03,030 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:24:03,031 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:03,031 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:24:03,189 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:24:03,221 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:24:03,241 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:03,242 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-29 12:24:03,247 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:03,247 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:24:03,377 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:24:03,410 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:24:03,465 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:03,466 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:24:03,467 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:03,467 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:24:03,621 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:24:03,659 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:24:03,760 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:03,761 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 12:24:03,762 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:03,763 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:24:05,281 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:24:05,309 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:05,310 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-29 12:24:05,312 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:24:05,312 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:52:54,108 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-08-29 12:52:58,038 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:52:58,049 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-08-29 12:52:58,483 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:52:58,488 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:52:58,491 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:52:58,492 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:52:58,949 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:52:59,440 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:52:59,466 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:52:59,467 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:52:59,468 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:52:59,469 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:52:59,663 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:52:59,700 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:52:59,726 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:52:59,727 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-29 12:52:59,760 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:52:59,760 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:52:59,946 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:52:59,983 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:53:00,064 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:53:00,065 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:53:00,067 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:53:00,068 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:53:00,349 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:53:00,356 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:53:00,358 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:53:00,359 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:53:00,614 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:53:00,647 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:53:00,763 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:53:00,764 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 12:53:00,819 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:53:00,820 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:53:51,470 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:53:51,472 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:53:51,473 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:53:51,473 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:04,739 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.sfle:sfle-parent:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-parent\pom.xml.
+2017-08-29 12:54:05,173 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sfle:sfle-commons:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-commons\pom.xml.
+2017-08-29 12:54:05,230 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:54:05,237 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-08-29 12:54:05,250 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.sfle:sfle-core:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-core\pom.xml.
+2017-08-29 12:54:05,371 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sfle:sfle-core-dao:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-dao\pom.xml.
+2017-08-29 12:54:05,395 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:54:05,489 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sfle:sfle-core-service:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-service\pom.xml.
+2017-08-29 12:54:05,604 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sfle:sfle-core-web:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-web\pom.xml.
+2017-08-29 12:54:05,726 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sfle:sfle-core-pojo:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-pojo\pom.xml.
+2017-08-29 12:54:05,985 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:54:06,006 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:54:08,337 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:54:08,345 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-08-29 12:54:08,575 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:54:08,579 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:08,581 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:54:08,582 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:08,634 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:54:08,752 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:54:08,768 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:54:08,768 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:08,769 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:54:08,769 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:08,833 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:54:08,855 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:54:08,869 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:54:08,870 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:08,871 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:54:08,871 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:08,926 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:54:08,962 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:54:09,009 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:54:09,009 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:09,013 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:54:09,013 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:09,103 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:54:09,131 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:54:09,178 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:54:09,178 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:09,179 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:54:09,179 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:54:27,477 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-parent
+2017-08-29 12:54:27,479 [Worker-9] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml install
+2017-08-29 12:55:40,625 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sfle:sfle-core-web:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-web\pom.xml.
+2017-08-29 12:55:40,709 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:55:40,729 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:55:41,171 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/javax/mail/mail/1.4.7/mail-1.4.7.pom
+2017-08-29 12:55:41,323 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/javax/mail/mail/1.4.7/mail-1.4.7.pom
+2017-08-29 12:55:41,489 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/com/sun/mail/all/1.4.7/all-1.4.7.pom
+2017-08-29 12:55:41,663 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/com/sun/mail/all/1.4.7/all-1.4.7.pom
+2017-08-29 12:55:41,756 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2017-08-29 12:55:41,870 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/net/java/jvnet-parent/1/jvnet-parent-1.pom
+2017-08-29 12:55:41,998 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/javax/activation/activation/1.1/activation-1.1.pom
+2017-08-29 12:55:42,114 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/javax/activation/activation/1.1/activation-1.1.pom
+2017-08-29 12:55:42,334 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/javax/mail/mail/1.4.7/mail-1.4.7.jar
+2017-08-29 12:55:42,894 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/javax/mail/mail/1.4.7/mail-1.4.7.jar
+2017-08-29 12:55:43,062 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/javax/activation/activation/1.1/activation-1.1.jar
+2017-08-29 12:55:43,229 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/javax/activation/activation/1.1/activation-1.1.jar
+2017-08-29 12:55:43,698 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-08-29 12:55:43,752 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:55:43,766 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:55:44,248 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:55:44,248 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:55:44,249 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:55:44,249 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:55:44,250 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sfle-core-web
+2017-08-29 12:55:44,250 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sfle-core-web
+2017-08-29 12:55:44,257 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:55:44,578 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:55:44,761 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:55:44,811 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:55:44,916 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:55:44,917 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 12:55:44,968 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:55:44,969 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:55:46,165 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sfle:sfle-core-web:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-web\pom.xml.
+2017-08-29 12:55:46,212 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:55:46,225 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:55:46,430 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:55:46,445 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:55:46,852 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:55:46,852 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:55:46,854 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:55:46,855 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:55:46,855 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sfle-core-web
+2017-08-29 12:55:46,855 [Worker-16] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sfle-core-web
+2017-08-29 12:55:46,859 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:55:48,099 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:55:52,936 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-web
+2017-08-29 12:55:52,937 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml install
+2017-08-29 12:56:03,609 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:56:03,631 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:56:03,687 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:56:03,688 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:56:03,690 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:56:03,691 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:56:22,358 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-29 12:56:22,540 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sfle:sfle-core-web:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-web\pom.xml.
+2017-08-29 12:56:22,597 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:56:22,616 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:56:22,855 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:56:22,868 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:56:23,279 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sfle-core-web/src/main/java
+2017-08-29 12:56:23,279 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sfle-core-web/src/main/resources
+2017-08-29 12:56:23,280 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sfle-core-web/src/test/java
+2017-08-29 12:56:23,280 [Worker-20] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sfle-core-web/src/test/resources
+2017-08-29 12:56:23,751 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:56:23,764 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:56:23,987 [Worker-20] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for sfle-core-web
+2017-08-29 12:56:23,999 [Worker-20] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-08-29 12:56:24,354 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:56:24,518 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:56:24,561 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:56:24,654 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:56:24,655 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 12:56:24,678 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:56:24,679 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:56:24,679 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sfle-core-web
+2017-08-29 12:56:24,679 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sfle-core-web
+2017-08-29 12:56:24,682 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:57:42,248 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-08-29 12:57:42,421 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.sfle:sfle-core-web:0.0.1-SNAPSHOT @ E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-web\pom.xml.
+2017-08-29 12:57:42,475 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:57:42,489 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:57:42,664 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:57:42,692 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:57:43,599 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sfle-core-web/src/main/java
+2017-08-29 12:57:43,599 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sfle-core-web/src/main/resources
+2017-08-29 12:57:43,600 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sfle-core-web/src/test/java
+2017-08-29 12:57:43,600 [Worker-13] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /sfle-core-web/src/test/resources
+2017-08-29 12:57:44,043 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:57:44,060 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:57:44,165 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for sfle-core-web
+2017-08-29 12:57:44,172 [Worker-13] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-08-29 12:57:44,326 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:57:44,451 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:57:44,477 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:57:44,526 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:57:44,526 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 12:57:44,562 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:57:44,562 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:57:44,562 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of sfle-core-web
+2017-08-29 12:57:44,562 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for sfle-core-web
+2017-08-29 12:57:44,567 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:58:33,397 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-08-29 12:58:34,584 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:58:34,678 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:58:35,803 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:58:36,707 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:58:36,707 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 12:58:36,723 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:58:36,723 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:58:51,333 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:58:51,348 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 12:58:51,379 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:58:51,379 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:58:56,349 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core
+2017-08-29 12:58:56,349 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml install
+2017-08-29 12:59:04,761 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:59:04,808 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:04,808 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:59:04,808 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:04,808 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:59:05,183 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:59:05,215 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:59:05,230 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:05,246 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-29 12:59:05,246 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:05,246 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:59:05,340 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 12:59:05,386 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 12:59:05,418 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:05,418 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:59:05,418 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:05,418 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:59:05,449 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:05,449 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:59:05,449 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:05,449 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:59:06,558 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:06,558 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:59:06,558 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:06,558 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 12:59:06,590 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:06,590 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-29 12:59:06,590 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 12:59:06,590 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:03:11,335 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 13:03:11,335 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2017-08-29 13:03:11,367 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:03:11,367 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:03:11,367 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:03:11,367 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:03:12,492 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:03:12,507 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:03:12,507 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:03:12,507 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:04:02,513 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:04:02,513 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:04:02,513 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:04:02,513 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:05:10,739 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 13:05:10,786 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 13:05:10,848 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:05:10,848 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:05:10,848 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:05:10,848 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:05:11,911 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:05:11,911 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:05:11,926 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:05:11,926 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:05:46,274 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:05:46,274 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:05:46,274 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:05:46,274 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:06:21,012 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:06:21,012 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:06:21,012 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:06:21,012 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:06:43,639 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:06:43,639 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:06:43,639 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:06:43,639 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:09:16,734 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:09:16,734 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:09:16,734 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:09:16,734 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:09:22,157 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:09:22,157 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:09:22,173 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:09:22,173 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:09:59,333 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:09:59,333 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:09:59,333 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:09:59,333 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:10:03,287 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:10:03,287 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:10:03,287 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:10:03,287 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:10:20,070 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:10:20,070 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:10:20,070 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:10:20,070 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:11:17,888 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-29 13:11:17,920 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-29 13:11:17,982 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:11:17,982 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:11:17,998 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:11:17,998 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:11:58,799 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:11:58,799 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:11:58,799 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:11:58,799 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:12:25,333 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:12:25,333 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:12:25,333 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:12:25,333 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:12:38,491 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:12:38,491 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:12:38,506 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:12:38,506 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:13:16,417 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:13:16,417 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:13:16,417 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:13:16,417 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:13:24,480 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:13:24,480 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:13:24,480 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:13:24,480 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:15:40,078 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:15:40,078 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:15:40,081 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:15:40,081 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:16:17,669 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:16:17,669 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:16:17,675 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:16:17,675 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:16:31,132 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:16:31,133 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:16:31,135 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:16:31,135 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:16:38,446 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:16:38,447 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:16:38,449 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:16:38,449 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:17:01,089 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:17:01,089 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:17:01,092 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:17:01,093 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:17:24,348 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:17:24,349 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:17:24,350 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:17:24,350 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:18:06,251 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:18:06,252 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 13:18:06,253 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:18:06,254 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:18:15,510 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:18:15,511 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 13:18:15,513 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:18:15,513 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:18:30,341 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:18:30,342 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 13:18:30,343 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:18:30,344 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:18:33,045 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:18:33,046 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 13:18:33,048 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:18:33,048 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:19:00,275 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:19:00,275 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 13:19:00,276 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:19:00,277 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:19:29,021 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:19:29,022 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 13:19:29,024 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:19:29,025 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:20:31,917 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:20:31,918 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 13:20:31,920 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:20:31,920 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:20:47,808 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:20:47,809 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 13:20:47,810 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:20:47,810 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:20:58,594 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:20:58,595 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 13:20:58,597 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:20:58,597 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:04,269 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:04,270 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-29 13:21:04,272 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:04,272 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:12,013 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core
+2017-08-29 13:21:12,013 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml clean tomcat7:run -DskipTests
+2017-08-29 13:21:22,288 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:22,289 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:22,291 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:22,292 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:23,810 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-service
+2017-08-29 13:21:23,811 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml install
+2017-08-29 13:21:26,749 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:26,750 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:26,751 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:26,751 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:27,814 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:27,814 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:27,815 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:27,815 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:35,133 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-commons
+2017-08-29 13:21:35,133 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml install
+2017-08-29 13:21:38,884 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:38,885 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:38,886 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:38,886 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:42,141 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core\sfle-core-service
+2017-08-29 13:21:42,142 [Worker-30] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml install
+2017-08-29 13:21:45,731 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:45,732 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:45,732 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:21:45,732 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:21:53,227 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core
+2017-08-29 13:21:53,228 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml clean tomcat7:run -DskipTests
+2017-08-29 13:22:38,871 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:22:38,871 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:22:38,876 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:22:38,876 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:22:50,692 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core
+2017-08-29 13:22:50,692 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml clean tomcat7:run -DskipTests
+2017-08-29 13:24:21,863 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:24:21,863 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:24:21,867 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:24:21,869 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:24:41,405 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core
+2017-08-29 13:24:41,405 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml clean tomcat7:run -DskipTests
+2017-08-29 13:25:11,719 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-context-support/4.1.3.RELEASE/spring-context-support-4.1.3.RELEASE-sources.jar
+2017-08-29 13:25:12,134 [Worker-34] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.aliyun.com/nexus/content/groups/public/org/springframework/spring-context-support/4.1.3.RELEASE/spring-context-support-4.1.3.RELEASE-sources.jar
+2017-08-29 13:25:12,420 [Worker-34] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework:spring-context-support:4.1.3.RELEASE
+2017-08-29 13:25:12,678 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:25:12,678 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:25:12,679 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:25:12,679 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:42:51,484 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core
+2017-08-29 13:42:51,484 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml clean tomcat7:run -DskipTests
+2017-08-29 13:45:40,377 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:45:40,377 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:45:40,377 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:45:40,377 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-29 13:45:45,833 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-08-29 13:46:07,901 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core
+2017-08-29 13:46:07,901 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml clean tomcat7:run -DskipTests
+2017-08-29 13:46:40,890 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:46:40,890 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-29 13:46:40,890 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-29 13:46:40,890 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 12:45:58,053 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-08-30 12:46:07,715 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-30 12:46:07,897 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-30 12:46:11,380 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:46:11,386 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 9 resources
+2017-08-30 12:46:11,427 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:46:11,427 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 12:46:13,704 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-30 12:46:30,668 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\workspace\eclipse-oxygen\sfle\sfle-core
+2017-08-30 12:46:30,683 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -gs E:\maven\apache-maven-3.5.0\conf\settings.xml -s E:\maven\apache-maven-3.5.0\conf\settings.xml clean tomcat7:run -DskipTests
+2017-08-30 12:47:26,620 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:26,628 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-08-30 12:47:26,638 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:26,639 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 12:47:44,946 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:44,947 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 12:47:44,950 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:44,950 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 12:47:46,058 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:46,058 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 12:47:46,060 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:46,060 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 12:47:57,421 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+2017-08-30 12:47:57,447 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+2017-08-30 12:47:57,576 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:57,577 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 12:47:57,578 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:57,579 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 12:47:58,874 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:58,876 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 12:47:58,878 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:58,879 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-30 12:47:59,960 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:59,963 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2017-08-30 12:47:59,966 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-08-30 12:47:59,966 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
