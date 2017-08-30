@@ -3662,3 +3662,12 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2017-08-30 12:47:57.447
 !MESSAGE The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-08-30 12:48:23.680
+!MESSAGE The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-08-30 12:48:24.342
+!MESSAGE The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-08-30 12:48:24.388
+!MESSAGE The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
