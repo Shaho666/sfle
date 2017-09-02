@@ -7,12 +7,13 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="sfle-sso"/>
+			<item value="sfle-parent"/>
 			<item value="sfle-core-web"/>
 			<item value="sfle-core"/>
 			<item value="sfle-core-service"/>
 			<item value="sfle-core-dao"/>
 			<item value="sfle-core-pojo"/>
-			<item value="sfle-parent"/>
 			<item value="sfle-commons"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -81,13 +82,10 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="org.sfle.core.web"/>
 		</list>
 		<list key="groupId">
-			<item value="com.sfle"/>
 		</list>
 		<list key="artifactId">
-			<item value="sfle-core-web"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
