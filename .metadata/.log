@@ -7214,3 +7214,42 @@ Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognise
 
 !ENTRY org.eclipse.jface.text 2 0 2017-09-03 00:16:45.809
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:52.570
+!MESSAGE The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:52.773
+!MESSAGE The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:52.805
+!MESSAGE The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:52.883
+!MESSAGE The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:52.898
+!MESSAGE The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:53.320
+!MESSAGE The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:53.336
+!MESSAGE The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:54.524
+!MESSAGE The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:54.570
+!MESSAGE The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:54.633
+!MESSAGE The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:54.649
+!MESSAGE The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:54.727
+!MESSAGE The POM for fastdfs_client:fastdfs_client:jar:1.25 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-09-03 00:30:54.742
+!MESSAGE The POM for com.github.pagehelper:pagehelper:jar:3.4.2-fix is missing, no dependency information available
